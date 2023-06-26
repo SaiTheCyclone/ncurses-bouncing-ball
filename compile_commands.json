@@ -1,0 +1,23 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-ggdb",
+      "-std=c++20",
+      "-pedantic-errors",
+      "-Werror",
+      "-Wshadow",
+      "-Wall",
+      "-Weffc++",
+      "-Wextra",
+      "-Wsign-conversion",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/privatebloxxer/Documents/Coding Projects/ncurses-bouncing-ball",
+    "file": "/home/privatebloxxer/Documents/Coding Projects/ncurses-bouncing-ball/main.cpp",
+    "output": "/home/privatebloxxer/Documents/Coding Projects/ncurses-bouncing-ball/main"
+  }
+]
